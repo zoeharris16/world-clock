@@ -48,7 +48,7 @@ function updateCity(event) {
           <div class="time">${cityTime.format(
             "h:mm:ss [<small>]A[</small>]"
           )}</div>
-        </div>`;
+        </div> <a href="/">All Cities</a>`;
 }
 
 updateTime();

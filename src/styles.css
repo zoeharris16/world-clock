@@ -33,6 +33,11 @@ footer {
   font-size: 12px;
   color: #f76b8a;
 }
+
+a {
+  color: #f76b8a;
+  text-decoration: none;
+}
 .world-clock-container {
   background: #fcfefe;
   max-width: 450px;
